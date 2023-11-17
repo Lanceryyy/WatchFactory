@@ -10,5 +10,4 @@ Watch Shop would be the client object.
 Refer to the UML Class Diagram
 
 ## UML Class Diagram
-
 ![alt text](watch.jpg)
